@@ -1,6 +1,6 @@
 # Python-Pygame-Pong
-	A simple Pong game. Made using Pygame.
+A simple Pong game. Made using Pygame.
 
 # Requirements
-	Python 3.x
-	Pygame
+Python 3.x 
+Pygame
