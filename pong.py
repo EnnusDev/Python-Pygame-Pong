@@ -1,7 +1,7 @@
 import pygame
 import os
 
-path = r"C:\Users\samue\OneDrive\Documenti\Coding\Python\Pygame\Pong"
+path = r"C:\User\Path"
 
 class Ball(object):
     
