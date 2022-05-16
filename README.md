@@ -1,5 +1,5 @@
 # Python-Pygame-Pong
-A simple Pong game. Made using Pygame.
+Unbeateble Pong Game, written in Python using Pygame.
 
 # Requirements
 - Python 3.x 
